@@ -9,7 +9,7 @@ This repository contains Version 26 of the preprint:
 
 > *A Deterministic Architecture for Long-Horizon AI Systems*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18808414.svg)](https://doi.org/10.5281/zenodo.18808414)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18808413.svg)](https://doi.org/10.5281/zenodo.18808413)
 
 The paper presents a general architectural framework for deterministic governance of generative mutation in long-lived AI systems. It defines a strict separation between immutable enforcement machinery and governed mutable state, a tiered artifact model (Tier A, Tier B, Tier C), explicit promotion semantics, deterministic replay guarantees, and refusal boundaries designed to prevent implicit authority accumulation over time.
 
@@ -38,7 +38,7 @@ If citing this work, please reference Version 26 explicitly.
 
 Maddry, T. (2026).  
 *A Deterministic Architecture for Long-Horizon AI Systems* (Version v26).  
-Zenodo. https://doi.org/10.5281/zenodo.18808414
+Zenodo. https://doi.org/10.5281/zenodo.18808413
 
 ---
 
